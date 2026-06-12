@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Feiwen Xiao is a Ph.D. student at the Learning Sciences and Technologies program at the University of Pennsylvania, Where she works with [Dr. Shiyan Jiang](https://www.gse.upenn.edu/faculty/shiyan-jiang). Her research sits at the intersection of Artificial Intelligence in Education, Learning Sciences, and Child-Computer Interaction. Her work investigates how children learn with, about, and through AI, with a particular focus on AI literacy, human-AI interaction, and embodied AI in educational settings.
+Feiwen Xiao is a Ph.D. student at the Learning Sciences and Technologies program at the University of Pennsylvania, where she works with [Dr. Shiyan Jiang](https://www.gse.upenn.edu/faculty/shiyan-jiang). Her research sits at the intersection of Artificial Intelligence in Education, Learning Sciences, and Child-Computer Interaction. Her work investigates how children learn with, about, and through AI, with a particular focus on AI literacy, human-AI interaction, and embodied AI in educational settings.
 
 Drawing on theories from the learning sciences and human-centered AI, Feiwen designs and studies AI-powered learning experiences that help learners develop critical understanding of AI systems while fostering creativity, agency, and collaboration. She is especially interested in how embodied and socially interactive AI agents can support learning, identity development, and meaningful engagement for children and adolescents.
 
